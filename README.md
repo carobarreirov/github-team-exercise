@@ -12,7 +12,7 @@ First GitHub repository worked on teams.
    1.1 Fill-out the username spreadsheet
 2. Choose a team-member order
 3. Choose a landing template or slide template
-   3.1 Recommendation: look for team slide
+   * Recommendation: look for team slide
 
 ## GO! Instructions
 1. Create a public repo and add collaborators
