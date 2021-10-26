@@ -10,9 +10,9 @@ First GitHub repository worked on teams.
 ## GET SET. The plan
 1. Divide in teams  
    1.1 Fill-out the username spreadsheet
-2. Choose a team-member order
-3. Choose a landing template or slide template
+2. Choose a landing template or slide template
    * Recommendation: look for team slide
+3. Divide (workload) and conquer
 
 ## GO! Instructions
 1. Create a public repo and add collaborators
