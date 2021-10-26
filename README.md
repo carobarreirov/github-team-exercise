@@ -24,10 +24,11 @@ First GitHub repository worked on teams.
 7. Make a pull-request to this Readme file when you are finish and add your github.io link to Project Section
 
    
-## The Resutls 
-### Project: October 2021
+## The Results 
  ```
  [Put your Name Repo/Project/Page/Team](put the link to your github.io)
  ```
+ 
+### Project: October 2021
  
  []()
